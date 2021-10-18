@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+
+.ant-table-tbody > tr.ant-table-row-selected > td,
+.ant-table-tbody > tr.ant-table-row-selected:hover > td {
+  background: #eee;
+}
